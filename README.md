@@ -21,3 +21,10 @@
 那么我该怎么办?
 
 可不可以采取冲量而非力？
+
+图形界面的话暑假学校学了Qt再说，说不定以后用C++写了
+
+https://zhuanlan.zhihu.com/p/411876276
+https://zhuanlan.zhihu.com/p/385159477
+https://www.cnblogs.com/bajdcc/p/5925922.html
+算了，难度太大了，暂时写不了。我真的...哭死
